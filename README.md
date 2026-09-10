@@ -1,3 +1,5 @@
+[![commitmentissues](https://img.shields.io/badge/%F0%9F%AA%A6%20declared%20dead-view%20certificate-555?style=for-the-badge&labelColor=cc0000)](https://commitmentissues.dev/?repo=MattisBothe%2Frusty)
+
 # Rusty – Discord Bot
 
 Rusty ist ein KI-gestützter Discord-Bot mit einer ausgeprägten Persönlichkeit,
